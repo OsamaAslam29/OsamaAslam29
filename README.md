@@ -7,7 +7,7 @@
 </h1>
 
 ### 🚀 About Me:
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m Senior Full Stack Developer
 - 💬 Ask me about **React**, **Next**, **JavaScript**, and **MERN Stack development**.
 - 📫 How to reach me: **osamaaslam029@gmail.com**
 
@@ -17,9 +17,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sufyan-aslam-0406a11bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/osamaaslam29" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
