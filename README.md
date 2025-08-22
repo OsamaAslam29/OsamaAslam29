@@ -7,7 +7,7 @@
 </h1>
 
 ### 🚀 About Me:
-- 🌱 I’m Senior Full Stack Developer
+- 🌱 I’m Junior Full Stack Developer
 - 💬 Ask me about **React**, **Next**, **JavaScript**, and **MERN Stack development**.
 - 📫 How to reach me: **osamaaslam029@gmail.com**
 
