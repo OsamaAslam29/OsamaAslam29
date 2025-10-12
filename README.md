@@ -7,8 +7,8 @@
 </h1>
 
 ### 🚀 About Me:
-- 🌱 I’m Junior Full Stack Developer
-- 💬 Ask me about **React**, **Next**, **JavaScript**, and **MERN Stack development**.
+- 🌱 I’m Full Stack Developer
+- 💬 Ask me about **React**, **Next**, **Node**, **JavaScript**, and **MERN Stack development**.
 - 📫 How to reach me: **osamaaslam029@gmail.com**
 
 ---
@@ -18,8 +18,24 @@
   <a href="https://www.linkedin.com/in/sufyan-aslam-0406a11bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+ 
+  <a href="https://wa.me/923045064423" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  
+  <a href="https://www.fiverr.com/s/xXbqb31" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+
+  <a href="https://www.upwork.com/freelancers/~0187be08e25295bb66" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+</a>
+
+  
 </p>
 
+
+  
 ---
 
 ### 🛠️ Languages and Tools:
